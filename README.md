@@ -1,1 +1,1 @@
-# atualizador
+## Atualizador automático para projetos do GitHub
